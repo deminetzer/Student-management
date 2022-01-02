@@ -1,0 +1,4 @@
+Israel Israeli	123456789	Intro to computer#89;OOP#98;ML#100
+Ploni Almoni	111222333	OOP#95;OOP#95;ML#95
+loser	111111111	Intro to computer#0;ML#0
+king	123456789	Intro to computer#100;OOP#100;OOP#99;ML#100
